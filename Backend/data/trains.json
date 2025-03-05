@@ -1,0 +1,89 @@
+[
+  {
+    "id": "T123",
+    "name": "Delhi-Mumbai Express",
+    "source": "Delhi",
+    "destination": "Mumbai",
+    "departureTime": "2025-03-04T10:00:00Z",
+    "seats": [
+      { "seatNumber": "AC1", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC2", "class": "AC", "isBooked": true },
+      { "seatNumber": "AC3", "class": "AC", "isBooked": false },
+      { "seatNumber": "SL3", "class": "Sleeper", "isBooked": true }
+    ]
+  },
+  {
+    "id": "T456",
+    "name": "Mumbai-Bangalore Superfast",
+    "source": "Mumbai",
+    "destination": "Bangalore",
+    "departureTime": "2025-03-04T14:30:00Z",
+    "seats": [
+      { "seatNumber": "AC1", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC2", "class": "AC", "isBooked": false },
+      { "seatNumber": "SL1", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL2", "class": "Sleeper", "isBooked": true },
+      { "seatNumber": "SL3", "class": "Sleeper", "isBooked": false }
+    ]
+  },
+  {
+    "id": "T789",
+    "name": "Delhi-Chennai Rajdhani",
+    "source": "Delhi",
+    "destination": "Chennai",
+    "departureTime": "2025-03-04T18:00:00Z",
+    "seats": [
+      { "seatNumber": "AC1", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC2", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC3", "class": "AC", "isBooked": true },
+      { "seatNumber": "AC4", "class": "AC", "isBooked": false },
+      { "seatNumber": "SL1", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL2", "class": "Sleeper", "isBooked": false }
+    ]
+  },
+  {
+    "id": "T101",
+    "name": "Bangalore-Delhi Duronto",
+    "source": "Bangalore",
+    "destination": "Delhi",
+    "departureTime": "2025-03-04T09:15:00Z",
+    "seats": [
+      { "seatNumber": "AC1", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC2", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC3", "class": "AC", "isBooked": true },
+      { "seatNumber": "SL1", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL2", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL3", "class": "Sleeper", "isBooked": false }
+    ]
+  },
+  {
+    "id": "T202",
+    "name": "Kolkata-Hyderabad Shatabdi",
+    "source": "Kolkata",
+    "destination": "Hyderabad",
+    "departureTime": "2025-03-04T12:00:00Z",
+    "seats": [
+      { "seatNumber": "AC1", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC2", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC3", "class": "AC", "isBooked": false },
+      { "seatNumber": "SL1", "class": "Sleeper", "isBooked": true },
+      { "seatNumber": "SL2", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL3", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL4", "class": "Sleeper", "isBooked": false }
+    ]
+  },
+  {
+    "id": "T303",
+    "name": "Hyderabad-Delhi Garib Rath",
+    "source": "Hyderabad",
+    "destination": "Delhi",
+    "departureTime": "2025-03-04T16:45:00Z",
+    "seats": [
+      { "seatNumber": "AC1", "class": "AC", "isBooked": false },
+      { "seatNumber": "AC2", "class": "AC", "isBooked": true },
+      { "seatNumber": "SL1", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL2", "class": "Sleeper", "isBooked": false },
+      { "seatNumber": "SL3", "class": "Sleeper", "isBooked": false }
+    ]
+  }
+]
